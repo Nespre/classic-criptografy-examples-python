@@ -16,7 +16,7 @@ Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a ope
 
 1. Clone o repositório:
    + git clone https://github.com/SEU_USUARIO/EXEMPLO_CIFRA_VERNAM.git
-2. Navegue até o diretório do projeto
+2. Navegue até o diretório do projeto:
    + cd EXEMPLO_CIFRA_VERNAM
 3. Execute o script Python:
    + python cifra_vernan.py
@@ -28,9 +28,8 @@ text: O texto a ser cifrado.
 key: A chave utilizada na cifra.
 
 
-##Exemplo de Resultado:
+## Exemplo de Resultado:
 RESULTADO
-
 Unicode: [123, 104, 110, ...]
 Representação oficial: ['\x7b', '\x68', '\x6e', ...]
 Binário: ['01111011', '01101000', '01101110', ...]
