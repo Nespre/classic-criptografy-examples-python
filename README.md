@@ -12,6 +12,7 @@ Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a ope
    - Binário
    - Hexadecimal
 
+<br>
 
 ## Como usar?
 
@@ -21,13 +22,15 @@ Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a ope
    cd EXEMPLO_CIFRA_VERNAM
 3. Execute o script Python:<br>
    python cifra_vernan.py
-   
+
+<br>
 
 ## Parâmetros:
 
 text: O texto a ser cifrado.<br>
 key: A chave utilizada na cifra.
 
+<br>
 
 ## Exemplo de Resultado:
 Se você usar o texto ESTAMOS NA AULA DE CRIPTOGRAFIA e uma chave aleatória, o script gerará a cifra nos três formatos mencionados.<br>
@@ -35,11 +38,13 @@ Se você usar o texto ESTAMOS NA AULA DE CRIPTOGRAFIA e uma chave aleatória, o 
 + Representação oficial: ['\x7b', '\x68', '\x6e', ...]<br>
 + Binário: ['01111011', '01101000', '01101110', ...]<br>
 + Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
-   
+
+<br>
 
 ## Contribuição
 Sinta-se à vontade para contribuir! Abra um pull request ou crie um issue para discutir melhorias.
 
+<br>
 
 ## Licença
 Este projeto está licenciado sob a MIT License. Veja LICENSE para mais detalhes.
