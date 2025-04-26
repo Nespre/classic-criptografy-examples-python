@@ -37,6 +37,7 @@ Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
 ```python
 def ola_mundo():
    print('hello world')
+```
 
 Contribuição
 
