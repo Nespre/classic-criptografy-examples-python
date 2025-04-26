@@ -15,11 +15,11 @@ Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a ope
 ## Como usar?
 
 1. Clone o repositório:<br>
-      git clone https://github.com/SEU_USUARIO/EXEMPLO_CIFRA_VERNAM.git
+   git clone https://github.com/SEU_USUARIO/EXEMPLO_CIFRA_VERNAM.git
 2. Navegue até o diretório do projeto:<br>
-      cd EXEMPLO_CIFRA_VERNAM
+   cd EXEMPLO_CIFRA_VERNAM
 3. Execute o script Python:<br>
-      python cifra_vernan.py
+   python cifra_vernan.py
    
 
 ## Parâmetros:
@@ -30,10 +30,10 @@ key: A chave utilizada na cifra.
 
 ## Exemplo de Resultado:
 Se você usar o texto ESTAMOS NA AULA DE CRIPTOGRAFIA e uma chave aleatória, o script gerará a cifra nos três formatos mencionados.<br>
-   Unicode: [123, 104, 110, ...]<br>
-   Representação oficial: ['\x7b', '\x68', '\x6e', ...]<br>
-   Binário: ['01111011', '01101000', '01101110', ...]<br>
-   Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
++ Unicode: [123, 104, 110, ...]<br>
++ Representação oficial: ['\x7b', '\x68', '\x6e', ...]<br>
++ Binário: ['01111011', '01101000', '01101110', ...]<br>
++ Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
    
 
 ## Contribuição
