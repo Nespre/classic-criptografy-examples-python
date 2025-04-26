@@ -34,7 +34,9 @@ Unicode: [123, 104, 110, ...]
 Representação oficial: ['\x7b', '\x68', '\x6e', ...]
 Binário: ['01111011', '01101000', '01101110', ...]
 Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
-
+'''python
+def ola_mundo():
+   print('hello world')
 
 Contribuição
 
