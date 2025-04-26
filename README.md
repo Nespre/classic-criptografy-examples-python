@@ -1,6 +1,7 @@
 # Exemplo-de-Cifra-de-Vernam-XOR---Python
 Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a operação XOR em Python. O script recebe um texto e uma chave, e gera o texto cifrado nos formatos Unicode, binário e hexadecimal.
 
+---
 
 ## Como funciona?
 
