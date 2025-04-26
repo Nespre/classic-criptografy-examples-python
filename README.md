@@ -30,18 +30,15 @@ key: A chave utilizada na cifra.
 
 ## Exemplo de Resultado:
 Se você usar o texto ESTAMOS NA AULA DE CRIPTOGRAFIA e uma chave aleatória, o script gerará a cifra nos três formatos mencionados.<br>
-Unicode: [123, 104, 110, ...]<br>
-Representação oficial: ['\x7b', '\x68', '\x6e', ...]<br>
-Binário: ['01111011', '01101000', '01101110', ...]<br>
-Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
-```python
-def ola_mundo():
-   print('hello world')
-```
+   Unicode: [123, 104, 110, ...]<br>
+   Representação oficial: ['\x7b', '\x68', '\x6e', ...]<br>
+   Binário: ['01111011', '01101000', '01101110', ...]<br>
+   Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
+   
 
-Contribuição
-
+## Contribuição
 Sinta-se à vontade para contribuir! Abra um pull request ou crie um issue para discutir melhorias.
-Licença
 
-Distribuído sob a licença MIT. Veja LICENSE para mais detalhes.
+
+## Licença
+Este projeto está licenciado sob a MIT License. Veja LICENSE para mais detalhes.
