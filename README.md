@@ -14,12 +14,12 @@ Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a ope
 
 ## Como usar?
 
-1. Clone o repositório:
-   + git clone https://github.com/SEU_USUARIO/EXEMPLO_CIFRA_VERNAM.git
-2. Navegue até o diretório do projeto:
-   + cd EXEMPLO_CIFRA_VERNAM
-3. Execute o script Python:
-   + python cifra_vernan.py
+1. Clone o repositório:<br>
+   git clone https://github.com/SEU_USUARIO/EXEMPLO_CIFRA_VERNAM.git
+2. Navegue até o diretório do projeto:<br>
+   cd EXEMPLO_CIFRA_VERNAM
+3. Execute o script Python:<br>
+   python cifra_vernan.py
    
 
 ## Parâmetros:
