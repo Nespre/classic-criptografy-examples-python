@@ -29,7 +29,6 @@ key: A chave utilizada na cifra.
 
 
 ## Exemplo de Resultado:
-RESULTADO
 Unicode: [123, 104, 110, ...]<br>
 Representação oficial: ['\x7b', '\x68', '\x6e', ...]<br>
 Binário: ['01111011', '01101000', '01101110', ...]<br>
