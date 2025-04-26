@@ -24,7 +24,7 @@ Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a ope
 
 ## Parâmetros:
 
-text: O texto a ser cifrado.
+text: O texto a ser cifrado.<br>
 key: A chave utilizada na cifra.
 
 
