@@ -1,7 +1,6 @@
 # Exemplos de Criptografia em Python
 Este repositório contém vários exemplos de implementações de técnicas de criptografia em Python. Cada script mostra como funcionam diferentes algoritmos de criptografia, como a Cifra de Vernam, Cifra de César, Vigenère, entre outros.
 .
-.
 ## Scripts Disponíveis
 - Cifra de Vernam (XOR): Exemplo de criptografia utilizando a operação XOR.
 - Cifra de César: Implementação da clássica cifra de deslocamento.
@@ -19,8 +18,8 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 3. Execute o script Python: python cifra_vernan.py
 .
 ## Parâmetros:
-- text: O texto a ser cifrado.
-- key: A chave utilizada na cifra.
+text: O texto a ser cifrado. <br>
+key: A chave utilizada na cifra.
 .
 ## Contribuição
 Sinta-se à vontade para contribuir! Abra um pull request ou crie um issue para discutir melhorias.
