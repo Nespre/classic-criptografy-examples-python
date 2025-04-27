@@ -21,7 +21,7 @@ Este repositório contém vários exemplos de implementações de técnicas de c
    python cifra_vernan.py
 .
 ## Parâmetros:
-text: O texto a ser cifrado.
+text: O texto a ser cifrado.<br>
 key: A chave utilizada na cifra.
 .
 ## Contribuição
