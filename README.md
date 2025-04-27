@@ -13,11 +13,11 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 3. Cada script pode ser executado individualmente, como demonstrado abaixo.
 .
 ## Como usar?
-1. Clone o repositório:
+1. Clone o repositório:<br>
    git clone https://github.com/SEU_USUARIO/cryptography-examples-python.git
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:<br>
    cd EXEMPLO_CIFRA_VERNAM
-3. Execute o script Python:
+3. Execute o script Python:<br>
    python cifra_vernan.py
 .
 ## Parâmetros:
