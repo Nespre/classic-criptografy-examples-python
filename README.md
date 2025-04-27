@@ -2,11 +2,11 @@
 Este repositório contém vários exemplos de implementações de técnicas de criptografia em Python. Cada script mostra como funcionam diferentes algoritmos de criptografia, como a Cifra de Vernam, Cifra de César, Vigenère, entre outros.
 
 ## Scripts Disponíveis
-- Cifra de César: Implementação da clássica cifra de deslocamento.
-- Cifra de Vigenère: Implementação da cifra de Vigenère, que usa uma chave repetitiva para criptografar texto.
-- Operação XOR - Exemplo Simples: Demonstra como a operação XOR funciona entre dois valores inteiros.
-- One-Time Pad: Implementação de uma cifra simétrica usando uma chave aleatória e única.
-- Cifra de Vernam (XOR): Exemplo de criptografia utilizando a operação XOR.
+- **Cifra de César**: Implementação da clássica cifra de deslocamento.
+- **Cifra de Vigenère**: Implementação da cifra de Vigenère, que usa uma chave repetitiva para criptografar texto.
+- **Operação XOR** - Exemplo Simples: Demonstra como a operação XOR funciona entre dois valores inteiros.
+- **One-Time Pad**: Implementação de uma cifra simétrica usando uma chave aleatória e única.
+- **Cifra de Vernam** (XOR): Exemplo de criptografia utilizando a operação XOR.
 
 ## Como Funciona?
 1. Cada script implementa uma técnica de criptografia diferente.
