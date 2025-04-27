@@ -1,50 +1,31 @@
-# exemplo-cifra-vernam-xor-python
-Este é um exemplo prático de como a cifra de Vernam funciona, utilizando a operação XOR em Python. O script recebe um texto e uma chave, e gera o texto cifrado nos formatos Unicode, binário e hexadecimal.
-
-<br>
-
-## Como funciona?
-
-1. O script converte o texto e a chave para representações Unicode.
-2. Aplica a operação XOR entre os caracteres do texto e da chave.
-3. Gera a cifra nos seguintes formatos:
-   - Unicode
-   - Binário
-   - Hexadecimal
-
-<br>
-
+# Exemplos de Criptografia em Python
+Este repositório contém vários exemplos de implementações de técnicas de criptografia em Python. Cada script mostra como funcionam diferentes algoritmos de criptografia, como a Cifra de Vernam, Cifra de César, Vigenère, entre outros.
+.
+## Scripts Disponíveis
+- Cifra de Vernam (XOR): Exemplo de criptografia utilizando a operação XOR.
+- Cifra de César: Implementação da clássica cifra de deslocamento.
+- Cifra de Vigenère: Implementação da cifra de Vigenère, que usa uma chave repetitiva para criptografar texto.
+- One-Time Pad: Implementação de uma cifra simétrica usando uma chave aleatória e única.
+.
+## Como Funciona?
+1. Cada script implementa uma técnica de criptografia diferente.
+2. O texto é criptografado com a chave fornecida e os resultados são exibidos nos formatos Unicode, binário e hexadecimal.
+3. Cada script pode ser executado individualmente, como demonstrado abaixo.
+.
 ## Como usar?
-
-1. Clone o repositório:<br>
-   git clone https://github.com/SEU_USUARIO/EXEMPLO_CIFRA_VERNAM.git
-2. Navegue até o diretório do projeto:<br>
+1. Clone o repositório:
+   git clone https://github.com/SEU_USUARIO/cryptography-examples-python.git
+2. Navegue até o diretório do projeto:
    cd EXEMPLO_CIFRA_VERNAM
-3. Execute o script Python:<br>
+3. Execute o script Python:
    python cifra_vernan.py
-
-<br>
-
+.
 ## Parâmetros:
-
-text: O texto a ser cifrado.<br>
+text: O texto a ser cifrado.
 key: A chave utilizada na cifra.
-
-<br>
-
-## Exemplo de Resultado:
-Se você usar o texto ESTAMOS NA AULA DE CRIPTOGRAFIA e uma chave aleatória, o script gerará a cifra nos três formatos mencionados.<br>
-+ Unicode: [123, 104, 110, ...]<br>
-+ Representação oficial: ['\x7b', '\x68', '\x6e', ...]<br>
-+ Binário: ['01111011', '01101000', '01101110', ...]<br>
-+ Hexadecimal: ['0x7b', '0x68', '0x6e', ...]
-
-<br>
-
+.
 ## Contribuição
 Sinta-se à vontade para contribuir! Abra um pull request ou crie um issue para discutir melhorias.
-
-<br>
-
+.
 ## Licença
 Este projeto está licenciado sob a MIT License. Veja LICENSE para mais detalhes.
