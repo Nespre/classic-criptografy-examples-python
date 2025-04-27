@@ -7,7 +7,7 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 - Operação XOR - Exemplo Simples: Demonstra como a operação XOR funciona entre dois valores inteiros.
 - One-Time Pad: Implementação de uma cifra simétrica usando uma chave aleatória e única.
 - Cifra de Vernam (XOR): Exemplo de criptografia utilizando a operação XOR.
-<br>
+
 ## Como Funciona?
 1. Cada script implementa uma técnica de criptografia diferente.
 2. O texto é criptografado com a chave fornecida e os resultados são exibidos nos formatos Unicode, binário e hexadecimal.
