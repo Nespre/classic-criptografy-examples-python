@@ -47,7 +47,7 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 
 ## Como usar?
 1. Clone o repositório:
-	`git clone https://github.com/SEU_USUARIO/cryptography-examples-python.git`
+`git clone https://github.com/SEU_USUARIO/cryptography-examples-python.git`
 
 2. Navegue até o diretório do projeto:
 	`cd cryptography-examples-python/scripts`
