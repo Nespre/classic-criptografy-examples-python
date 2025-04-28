@@ -13,11 +13,7 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 2. O texto é criptografado com a chave fornecida e os resultados são exibidos nos formatos Unicode, binário e hexadecimal.
 3. Cada script pode ser executado individualmente, como demonstrado abaixo.
 
-<<<<<<< HEAD
 ## Como usar?
-=======
-## Como usar!
->>>>>>> 8b61c4cb9c6cfafbd10dc4ebbfa4049b2ec6fb32
 1. Clone o repositório: git clone https://github.com/SEU_USUARIO/cryptography-examples-python.git
 2. Navegue até o diretório do projeto: cd EXEMPLO_CIFRA_VERNAM
 3. Execute o script Python: python cifra_vernan.py
