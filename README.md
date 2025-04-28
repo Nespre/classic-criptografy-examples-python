@@ -12,10 +12,10 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 
 
 ## Scripts Disponíveis
-- <details>**<summary>**Cifra de César**</summary>**
+- **Cifra de César**
   Implementação da clássica cifra de deslocamento.  
   **Exemplo:**  
-  Entrada: "ABC" com chave 2 → Resultado: "CDE"</details>
+  Entrada: "ABC" com chave 2 → Resultado: "CDE"
 
 - **Cifra de Vigenère**  
   Utiliza uma chave repetitiva para criptografar texto.  
