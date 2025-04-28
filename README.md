@@ -9,7 +9,7 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 - [Parâmetros Comuns](#parâmetros-comuns)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
-
+<br><br>
 
 ## Scripts Disponíveis
 - **Cifra de César**
@@ -36,13 +36,13 @@ Este repositório contém vários exemplos de implementações de técnicas de c
   Exemplo de criptografia utilizando XOR entre a mensagem e a chave.  
   **Exemplo:**  
   Entrada: "ESTAMOS NA AULA DE CRIPTOGRAFIA" + Chave Aleatória → Resultado cifrado em Unicode, Binário e Hexadecimal.
-
+<br><br>
 
 ## Como Funciona?
 1. Cada script implementa uma técnica de criptografia diferente.
 2. O texto é criptografado com a chave fornecida e os resultados são exibidos nos formatos Unicode, binário e hexadecimal.
 3. Cada script pode ser executado individualmente, como demonstrado abaixo.
-
+<br><br>
 
 ## Como usar?
 1. Clone o repositório: <br> `git clone https://github.com/SEU_USUARIO/cryptography-examples-python.git`
