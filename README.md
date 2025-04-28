@@ -50,16 +50,16 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 3. Navegue até o diretório do projeto:  <br> `cd cryptography-examples-python/scripts`
 
 4. Execute o script Python desejado. Exemplo:  <br> `python scripts/cifra_vernam.py`
-
+<br><br>
 
 ## Parâmetros Comuns
 **text:** O texto a ser cifrado. <br>
 **key:** A chave utilizada na cifra.
-
+<br><br>
 
 ## Contribuição
 Sinta-se à vontade para contribuir! Abra um pull request ou crie um issue para discutir melhorias.
-
+<br><br>
 
 ## Licença
 Este projeto está licenciado sob a MIT License. Veja LICENSE para mais detalhes.
