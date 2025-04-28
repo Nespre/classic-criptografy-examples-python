@@ -18,7 +18,7 @@ Este repositório contém vários exemplos de implementações de técnicas de c
 2. Navegue até o diretório do projeto: cd EXEMPLO_CIFRA_VERNAM
 3. Execute o script Python: python cifra_vernan.py
 
-## Parâmetros Comuns:
+## Parâmetros Comuns
 text: O texto a ser cifrado. <br>
 key: A chave utilizada na cifra.
 
