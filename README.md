@@ -1,6 +1,9 @@
 # Exemplos de Criptografia em Python
 Este repositório contém vários exemplos de implementações de técnicas de criptografia em Python. Cada script mostra como funcionam diferentes algoritmos de criptografia, como a Cifra de Vernam, Cifra de César, Vigenère, entre outros.
-<br><br>
+
+> **Nota:** Este projeto é apenas para fins educacionais.
+
+<br>
 
 ## Índice
 - [Scripts Disponíveis](#scripts-disponíveis)
